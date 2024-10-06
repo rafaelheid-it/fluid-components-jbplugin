@@ -1,4 +1,4 @@
-package com.github.rafaelheidit.fluidcomponentsjbplugin
+package com.rafaelheid.fluidcomponents
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

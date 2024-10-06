@@ -1,9 +1,9 @@
-package com.github.rafaelheidit.fluidcomponentsjbplugin.services
+package com.rafaelheid.fluidcomponents.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.rafaelheidit.fluidcomponentsjbplugin.MyBundle
+import com.rafaelheid.fluidcomponents.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

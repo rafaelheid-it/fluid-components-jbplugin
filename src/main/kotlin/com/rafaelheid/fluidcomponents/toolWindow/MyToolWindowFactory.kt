@@ -1,4 +1,4 @@
-package com.github.rafaelheidit.fluidcomponentsjbplugin.toolWindow
+package com.rafaelheid.fluidcomponents.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.rafaelheidit.fluidcomponentsjbplugin.MyBundle
-import com.github.rafaelheidit.fluidcomponentsjbplugin.services.MyProjectService
+import com.rafaelheid.fluidcomponents.MyBundle
+import com.rafaelheid.fluidcomponents.services.MyProjectService
 import javax.swing.JButton
 
 

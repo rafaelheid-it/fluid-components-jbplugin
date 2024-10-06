@@ -1,4 +1,4 @@
-package com.github.rafaelheidit.fluidcomponentsjbplugin.listeners
+package com.rafaelheid.fluidcomponents.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
